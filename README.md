@@ -63,10 +63,19 @@ Currently working on enhancing my deep learning knowledge and exploring end-to-e
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 GitHub Activity & Insights
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsvishal1012&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvishal1012&layout=compact&theme=radical)
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsvishal1012&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsvishal1012&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsvishal1012&theme=tokyonight&utcOffset=+5.5" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsvishal1012&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsvishal1012&theme=tokyonight" />
+
+</div>
 
 ---
 
