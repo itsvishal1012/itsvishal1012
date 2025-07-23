@@ -6,7 +6,7 @@
 📍 Ballabgarh, Haryana, India  
 📧 [vishalsaini0328@gmail.com](mailto:vishalsaini0328@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/vishal-saini-5b4b0b253/) • [GitHub](https://github.com/itsvishal1012)
-![Visitor Count](https://komarev.com/ghpvc/?username=itsvishal1012&label=Profile%20Views&color=0e75b6&style=flat)
+
 ---
 
 ## 🧠 About Me
